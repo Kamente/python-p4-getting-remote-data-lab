@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 requests = "*"
 pytest = "*"
+flask = "*"
+sqlalchemy = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
 
