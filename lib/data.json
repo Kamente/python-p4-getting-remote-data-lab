@@ -1,0 +1,20 @@
+// The JSON data generated from the API
+
+[
+    {
+        "name": "Daniel",
+        "occupation": "LG Fridge Salesman"
+    },
+    {
+        "name": "Joe",
+        "occupation": "WiFi Fixer"
+    },
+    {
+        "name": "Avi",
+        "occupation": "DJ"
+    },
+    {
+        "name": "Howard",
+        "occupation": "Mountain Legend"
+    }
+]

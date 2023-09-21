@@ -19,7 +19,8 @@ class GetRequester:
 
 get_requester = GetRequester("https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json")
 
-response_json = get_requester.load_json()
-# response_content = get_requester.get_response_body()
-print (response_json)
-# print(response_content)
+response_content = get_requester.get_response_body()
+print(response_content)
+
+# response_json = get_requester.load_json()
+# print (response_json)
